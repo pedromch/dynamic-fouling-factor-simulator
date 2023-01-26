@@ -1,0 +1,1 @@
+ASSETS_FOLDER_NAME = "assets"
